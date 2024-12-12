@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salar-pr" alt="salar-pr" /></a> </p>
 
-- 🔭 I’m currently working on [market_shop]((https://github.com/Salar-pr/market_shop_1403_9_22))
+- 🔭 I’m currently working on [market_shop](https://github.com/Salar-pr/market_shop_1403_9_22)
 
 - 🌱 I’m currently learning **Django**
 
