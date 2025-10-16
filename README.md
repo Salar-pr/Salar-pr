@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salar-pr" alt="salar-pr" /></a> </p>
 
-- 🔭 I’m currently working on [Furniture-Fakher]((https://github.com/ECode-Team/Furniture-Fakher))
+- 🔭 I’m currently working on [Furniture-Fakher](https://github.com/ECode-Team/Furniture-Fakher)
 
 - 🌱 I’m currently learning **Django**
 
